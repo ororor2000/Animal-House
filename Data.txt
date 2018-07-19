@@ -1,0 +1,34 @@
+animal house is a frat organizer app
+
+אתה נרשם לאחווה שלך
+שולח בקשה לאדמינים
+
+הרשמה הרשמה הרשמה משימות שטויות
+
+אני באחווה
+
+schedule
+-add events
+-edit my events
+-add comments
+
+todo list
+-add item
+-edit my items
+-add comments
+
+budget management
+-building shopping cart (research online grocery APIs)
+
+
+USER CAPABILITIES
+-sign up, log in/out
+-switch accounts
+-different levels of users (admin, regular, pending join)
+-friends list
+-user settings
+-invite my (facebook/twitter/instagram) friends/contacts
+-follow XXXX's activity/events
+-private messaging
+-change password, 2fa, etc.
+-post (text/pic/video) - to frat/everyone/close friends/only me
